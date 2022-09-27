@@ -1,0 +1,1 @@
+export const SIDEBAR_CHECK = "SIDEBAR_CHECK";

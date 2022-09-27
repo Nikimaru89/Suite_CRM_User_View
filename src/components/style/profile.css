@@ -1,0 +1,31 @@
+@media screen and (max-width: 850px) {
+  .mobile-class{
+    flex-direction: column !important;
+  }
+}
+
+@media screen and (max-width: 500px) {
+    .income-mobile {
+      flex-direction: column !important;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+  .property-mobile{
+    flex-direction: column !important;
+  }
+}
+
+.calculate-title{
+  font-size: 32px;
+  white-space: nowrap;
+  font-family: "AGaramond";
+  letter-spacing: -2px;
+}
+
+@media screen and (max-width: 800px) {
+  .calculate-title{
+    font-size: 20px;
+    white-space: wrap;
+  }
+}
